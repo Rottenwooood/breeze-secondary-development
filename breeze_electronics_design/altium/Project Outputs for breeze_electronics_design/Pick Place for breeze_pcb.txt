@@ -1,0 +1,137 @@
+Altium Designer Pick and Place Locations
+C:\Users\Administrator\Desktop\µçÂ·\breeze_electronics_design\altium\Project Outputs for breeze_electronics_design\Pick Place for breeze_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/04/25
+Time:       09:59
+Revision:   0def11d7efc7fd1f6b06eb3a9a8da967e8979e83
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer       Footprint         Center-X(mm) Center-Y(mm) Rotation Description                                                              
+LOGO2      Comment       TopLayer    LOGO_MAG          -73.6120     -62.1820     0        ""                                                                       
+LOGO1      Comment       TopLayer    LOGO_ACC_GYR      -73.6120     -62.1820     0        ""                                                                       
+LOGO3      Comment       TopLayer    LOGO_TEAM_OVERLAY -73.6120     -62.1820     0        ""                                                                       
+S1         SKRELGE010    TopLayer    SKRELGE010        45.7200      23.7490      0        Switch                                                                   
+C40        CAP-0603      BottomLayer SMD-0603          47.2440      41.0210      270      Capacitor                                                                
+Y2         XTAL-5032     BottomLayer SMD-5032          56.5150      43.4340      270      "Passive Crystal Oscillator"                                             
+P8         HDR-1X10      TopLayer    HDR-1X10          65.7860      46.9900      90       "Header 1X10"                                                            
+R4         RES-0603      TopLayer    SMD-0603          69.5960      29.2100      180      Resistor                                                                 
+D4         BAT54KFILM    TopLayer    SOD-523           74.4220      19.5580      225      "Schottky Diode"                                                         
+A1         AN9520        TopLayer    AN9520            46.9646      69.5960      180      "2.4GHz Wireless Communication Antenna"                                  
+B1         BAT           TopLayer    HDR-1X2           40.1320      23.6220      360      Battery                                                                  
+C1         CAP-0603      TopLayer    SMD-0603          35.6870      55.1180      0        Capacitor                                                                
+C2         CAP-0603      TopLayer    SMD-0603          38.2270      38.8620      180      Capacitor                                                                
+C3         CAP-0603      TopLayer    SMD-0603          38.1000      51.0540      90       Capacitor                                                                
+C4         CAP-0603      TopLayer    SMD-0603          38.1000      41.0210      90       Capacitor                                                                
+C5         CAP-0603      TopLayer    SMD-0603          37.4650      44.3230      0        Capacitor                                                                
+C6         CAP-0603      TopLayer    SMD-0603          35.1790      44.9580      270      Capacitor                                                                
+C7         CAP-0603      TopLayer    SMD-0603          37.4650      46.6090      0        Capacitor                                                                
+C8         CAP-0603      TopLayer    SMD-0603          36.1950      63.7540      180      Capacitor                                                                
+C9         CAP-0603      TopLayer    SMD-0603          40.8940      64.6430      270      Capacitor                                                                
+C10        CAP-0603      TopLayer    SMD-0603          40.8940      60.3250      270      Capacitor                                                                
+C11        CAP-0603      TopLayer    SMD-0603          44.1960      57.9120      180      Capacitor                                                                
+C12        CAP-0603      TopLayer    SMD-0603          47.2440      62.4840      90       Capacitor                                                                
+C13        CAP-0603      TopLayer    SMD-0603          48.6410      50.6730      180      Capacitor                                                                
+C14        CAP-0603      TopLayer    SMD-0603          48.7680      62.4840      90       Capacitor                                                                
+C15        CAP-0603      TopLayer    SMD-0603          48.0060      66.5480      180      Capacitor                                                                
+C16        CAP-0603      TopLayer    SMD-0603          53.3400      66.5480      360      Capacitor                                                                
+C17        CAP-0603      TopLayer    SMD-0603          56.6420      53.9750      90       Capacitor                                                                
+C18        CAP-0603      TopLayer    SMD-0603          53.3400      61.7220      360      Capacitor                                                                
+C19        CAP-0603      TopLayer    SMD-0603          53.3400      64.2620      360      Capacitor                                                                
+C20        CAP-0603      BottomLayer SMD-0603          43.6880      31.6230      90       Capacitor                                                                
+C21        CAP-0603      BottomLayer SMD-0603          38.8620      28.9560      270      Capacitor                                                                
+C22        CAP-0603      TopLayer    SMD-0603          33.6550      34.0360      90       Capacitor                                                                
+C23        CAP-0603      TopLayer    SMD-0603          36.9570      34.0360      90       Capacitor                                                                
+C24        CAP-0603      BottomLayer SMD-0603          34.0360      33.2740      270      Capacitor                                                                
+C25        CAP-0603      BottomLayer SMD-0603          38.4810      37.0840      90       Capacitor                                                                
+C26        CAP-0603      BottomLayer SMD-0603          55.6260      33.6550      180      Capacitor                                                                
+C27        CAP-0603      BottomLayer SMD-0603          60.1980      36.7030      360      Capacitor                                                                
+C28        CAP-0603      BottomLayer SMD-0603          63.7540      30.8610      90       Capacitor                                                                
+C29        CAP-0603      BottomLayer SMD-0603          56.3880      29.3370      270      Capacitor                                                                
+C30        CAP-0603      BottomLayer SMD-0603          58.6740      25.4000      360      Capacitor                                                                
+C31        CAP-0603      BottomLayer SMD-0603          40.1320      25.6540      360      Capacitor                                                                
+C32        CAP-0603      BottomLayer SMD-0603          66.0400      31.7500      180      Capacitor                                                                
+C33        CAP-0603      BottomLayer SMD-0603          52.0700      41.7830      360      Capacitor                                                                
+C34        CAP-0603      BottomLayer SMD-0603          44.1960      52.0700      180      Capacitor                                                                
+C35        CAP-0603      BottomLayer SMD-0603          49.7840      52.0700      180      Capacitor                                                                
+C36        CAP-0603      BottomLayer SMD-0603          44.1960      40.2590      180      Capacitor                                                                
+C37        CAP-0603      BottomLayer SMD-0603          44.1960      41.7830      180      Capacitor                                                                
+C38        CAP-0603      BottomLayer SMD-0603          59.6900      45.5930      90       Capacitor                                                                
+C39        CAP-0603      BottomLayer SMD-0603          59.6759      41.3281      90       Capacitor                                                                
+C41        CAP-0603      TopLayer    SMD-0603          45.7200      28.1940      270      Capacitor                                                                
+D1         BAT54KFILM    TopLayer    SOD-523           19.5580      74.4220      45       "Schottky Diode"                                                         
+D2         BAT54KFILM    TopLayer    SOD-523           74.4220      74.4220      135      "Schottky Diode"                                                         
+D3         BAT54KFILM    TopLayer    SOD-523           19.5580      19.5580      315      "Schottky Diode"                                                         
+D5         LED-0603      TopLayer    SMD-0603          56.1340      64.2620      0        LED                                                                      
+D6         LED-0603      TopLayer    SMD-0603          58.9280      64.2620      0        LED                                                                      
+D7         LED-0603      TopLayer    SMD-0603          30.4800      25.4000      180      LED                                                                      
+D8         LED-0603      TopLayer    SMD-0603          63.2460      25.4000      180      LED                                                                      
+D9         LED-0603      TopLayer    SMD-0603          16.8699      77.0249      45       LED                                                                      
+D10        LED-0603      TopLayer    SMD-0603          76.9620      76.9620      135      LED                                                                      
+D11        LED-0603      TopLayer    SMD-0603          17.0180      17.0180      315      LED                                                                      
+D12        LED-0603      TopLayer    SMD-0603          76.9620      17.0180      225      LED                                                                      
+L1         IND-0402      TopLayer    SMD-0402          50.8000      66.5480      360      Inductor                                                                 
+L2         IND-0402      TopLayer    SMD-0402          50.8000      61.5950      0        Inductor                                                                 
+L3         IND-0402      TopLayer    SMD-0402          50.8000      64.2620      180      Inductor                                                                 
+P1         Motor1        BottomLayer HDRM-1X2          20.8280      73.1520      225      "Motor Header"                                                           
+P2         Motor2        BottomLayer HDRM-1X2          73.1520      73.1520      135      "Motor Header"                                                           
+P3         Motor3        BottomLayer HDRM-1X2          20.8280      20.8280      315      "Motor Header"                                                           
+P4         Motor4        BottomLayer HDRM-1X2          73.1520      20.8280      45       "Motor Header"                                                           
+P5         USB_MICRO     BottomLayer USB_MICRO         51.3080      24.6380      270      "Micro USB"                                                              
+P6         HDR-1X2       TopLayer    HDR-1X2           59.1820      28.4480      360      "Header 1X2"                                                             
+P7         HDR-1X10      TopLayer    HDR-1X10          28.1940      46.9900      270      "Header 1X10"                                                            
+Q2         SI2302        TopLayer    SOT-23            69.5141      69.5141      45       "N-Channel Enhancement Mode Field Effect Transistor"                     
+Q3         SI2302        TopLayer    SOT-23            24.4659      24.4659      225      "N-Channel Enhancement Mode Field Effect Transistor"                     
+Q5         2N7002        BottomLayer SOT-23            29.5910      29.7180      270      "N-Channel Enhancement Mode Field Effect Transistor"                     
+Q6         2N7002        BottomLayer SOT-23            64.7700      26.6700      270      "N-Channel Enhancement Mode Field Effect Transistor"                     
+R1         RES-0603      TopLayer    SMD-0603          24.3840      64.7700      360      Resistor                                                                 
+R2         RES-0603      TopLayer    SMD-0603          69.5960      64.7700      360      Resistor                                                                 
+R3         RES-0603      TopLayer    SMD-0603          24.3840      29.2100      180      Resistor                                                                 
+R5         RES-0603      TopLayer    SMD-0603          56.1340      61.7220      0        Resistor                                                                 
+R6         RES-0603      TopLayer    SMD-0603          58.9280      61.7220      0        Resistor                                                                 
+R7         RES-0603      BottomLayer SMD-0603          42.1640      31.6230      90       Resistor                                                                 
+R8         RES-0603      BottomLayer SMD-0603          32.5120      33.2740      90       Resistor                                                                 
+R9         RES-0603      BottomLayer SMD-0603          40.0050      37.0840      90       Resistor                                                                 
+R10        RES-0603      BottomLayer SMD-0603          32.5120      37.0840      90       Resistor                                                                 
+R11        RES-0603      BottomLayer SMD-0603          55.6260      35.1790      180      Resistor                                                                 
+R12        RES-0603      BottomLayer SMD-0603          57.9120      35.9410      90       Resistor                                                                 
+R13        RES-0603      TopLayer    SMD-0603          32.7660      26.0350      270      Resistor                                                                 
+R14        RES-0603      TopLayer    SMD-0603          64.0080      28.7020      270      Resistor                                                                 
+R15        RES-0603      BottomLayer SMD-0603          55.6260      36.7030      360      Resistor                                                                 
+R16        RES-0603      BottomLayer SMD-0603          54.8640      29.3370      270      Resistor                                                                 
+R17        RES-0603      BottomLayer SMD-0603          63.7540      33.7820      90       Resistor                                                                 
+R18        RES-0603      TopLayer    SMD-0603          30.4800      33.2740      180      Resistor                                                                 
+R19        RES-0603      TopLayer    SMD-0603          30.4800      30.9880      180      Resistor                                                                 
+R20        RES-0603      TopLayer    SMD-0603          30.4800      29.4640      180      Resistor                                                                 
+R22        RES-0603      BottomLayer SMD-0603          61.7220      25.4000      90       Resistor                                                                 
+R23        RES-0603      BottomLayer SMD-0603          36.1950      25.6540      360      Resistor                                                                 
+R24        RES-0603      TopLayer    SMD-0603          41.4020      27.5590      180      Resistor                                                                 
+R25        RES-0603      TopLayer    SMD-0603          34.2900      36.3220      360      Resistor                                                                 
+R26        RES-0603      BottomLayer SMD-0603          66.0400      30.2260      180      Resistor                                                                 
+R27        RES-0603      TopLayer    SMD-0603          55.3720      24.6380      270      Resistor                                                                 
+R28        RES-0603      BottomLayer SMD-0603          57.4040      49.2760      180      Resistor                                                                 
+R29        RES-0603      BottomLayer SMD-0603          57.4040      47.7520      180      Resistor                                                                 
+R30        RES-0603      TopLayer    SMD-0603          22.6060      74.8030      315      Resistor                                                                 
+R32        RES-0603      BottomLayer SMD-0603          52.7050      44.1960      270      Resistor                                                                 
+R33        RES-0603      TopLayer    SMD-0603          22.6060      19.0500      45       Resistor                                                                 
+R34        RES-0603      TopLayer    SMD-0603          71.3740      19.0500      135      Resistor                                                                 
+U1         MPU6050       TopLayer    QFN-24            34.2900      51.5620      0        "6-axis Motion Tracking IC"                                              
+U2         HMC5883L      TopLayer    LPCC-16           34.2900      40.6400      0        "3-Axis Digital Compass IC"                                              
+U3         MS5611        TopLayer    MS5611            34.2900      59.4360      270      "High Resolution Altimeter IC"                                           
+U4         nRF51822      TopLayer    QFN-48            51.0540      56.3880      90       "Multiprotocol Bluetooth 4.0 low energy/2.4 GHz RF SoC"                  
+U5         TPS79301DBVR  BottomLayer SOT-23-6          38.2270      33.4010      360      "200-mA RF Low-Dropout Regulator"                                        
+U6         NUF2221W1T2   BottomLayer SOT-363           47.7520      29.4640      360      "USB Upstream Terminator  with ESD Protection"                           
+U7         BQ24075RGTR   TopLayer    VQFN-16           35.3060      30.2260      90       "1.5-A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC" 
+U8         TPS79301DBVR  BottomLayer SOT-23-6          59.6900      31.7500      180      "200-mA RF Low-Dropout Regulator"                                        
+U9         MAX16054      TopLayer    SOT-23-6          52.0700      24.6380      90       "On/Off Controller with Debounce and ¡À15kV ESD Protection"               
+U10        STM32F103T6U6 BottomLayer VFQFPN-36         46.9900      46.9900      90       "ARM Cortex-M3 MCU"                                                      
+U11        CP2102        BottomLayer QFN-28            48.0060      34.6710      90       "Highly-integrated USB-to-UART Bridge Controller"                        
+Y1         XTAL-5032     TopLayer    SMD-5032          44.1960      62.4840      270      "Passive Crystal Oscillator"                                             
+R31        RES-0603      TopLayer    SMD-0603          71.3740      74.9300      225      Resistor                                                                 
+Q1         SI2302        TopLayer    SOT-23            24.4659      69.5141      135      "N-Channel Enhancement Mode Field Effect Transistor"                     
+Q4         SI2302        TopLayer    SOT-23            69.5141      24.4659      315      "N-Channel Enhancement Mode Field Effect Transistor"                     
+S2         MSS-22D18G2   TopLayer    MSS-22D18G2       59.3090      45.4660      0        "Double-Pole, Double-Throw Switch"                                       
+R21        RES-0603      TopLayer    SMD-0603          30.4800      27.9400      180      Resistor                                                                 

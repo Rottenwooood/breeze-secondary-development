@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=breeze_controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=breeze_controller.SchDoc|FileName=breeze_motor.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=breeze_controller.SchDoc|FileName=breeze_power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=breeze_controller.SchDoc|FileName=breeze_sensor.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=breeze_controller.SchDoc|FileName=breeze_wireless.SchDoc|SheetNumber=5

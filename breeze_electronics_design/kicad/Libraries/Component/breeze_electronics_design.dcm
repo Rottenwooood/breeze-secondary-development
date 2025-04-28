@@ -1,0 +1,168 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.3V
+D Power +3.3V
+K Power +3.3V
+$ENDCMP
+#
+$CMP +3.3V-BT
+D Power +3.3V
+K Power +3.3V
+$ENDCMP
+#
+$CMP +3.7V
+D Power +3.7V
+K Power +3.7V
+$ENDCMP
+#
+$CMP +5V
+D Power +5V
+K Power +5V
+$ENDCMP
+#
+$CMP +5V-USB
+D Power +5V
+K Power +5V
+$ENDCMP
+#
+$CMP Antenna
+D Multilayer chip antenna
+K Multilayer chip antenna
+$ENDCMP
+#
+$CMP CP2102
+D USB-to-UART bridge controller
+K USB-to-UART bridge controller
+$ENDCMP
+#
+$CMP Capacitance
+D Unpolarized capacitor
+K Unpolarized capacitor
+$ENDCMP
+#
+$CMP CapacitancePolar
+D Polarised capacitor
+K Polarised capacitor
+$ENDCMP
+#
+$CMP CrystalOscillator
+D Crystal oscillator
+K Crystal oscillator
+$ENDCMP
+#
+$CMP CrystalResonator
+D Crystal resonator, Three pins
+K Crystal resonator, Three pins
+$ENDCMP
+#
+$CMP GND
+D Ground
+K Ground
+$ENDCMP
+#
+$CMP HMC5883L
+D Three-axis digital compass
+K Three-axis digital compass
+$ENDCMP
+#
+$CMP HM_Bluetooth
+D Bluetooth HM-06 or HM-11
+K Bluetooth HM-06 or HM-11
+$ENDCMP
+#
+$CMP Header
+D Pin header, Two pins
+K Pin header, Two pins
+$ENDCMP
+#
+$CMP Inductor
+D Inductor
+K Inductor
+$ENDCMP
+#
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
+$CMP LM27313
+D Boost converter
+K Boost converter
+$ENDCMP
+#
+$CMP LTC4054
+D Lithium battery charging module
+K Lithium battery charging module
+$ENDCMP
+#
+$CMP MIC5205-3.3
+D Voltage regulator
+K Voltage regulator
+$ENDCMP
+#
+$CMP MPU6050
+D Six-axis motion tracking device
+K Six-axis motion tracking device
+$ENDCMP
+#
+$CMP MS5611
+D Altimeter sensor
+K Altimeter sensor
+$ENDCMP
+#
+$CMP MicroUSB
+D Micro USB B
+K Micro USB B
+$ENDCMP
+#
+$CMP Mosfet
+D N-Channel MOSFET
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP MotorA
+D 720 brushed coreless motor
+K 720 brushed coreless motor
+$ENDCMP
+#
+$CMP MotorB
+D 720 brushed coreless motor
+K 720 brushed coreless motor
+$ENDCMP
+#
+$CMP NRF24L01
+D Radio transceiver chip
+K Radio transceiver chip
+$ENDCMP
+#
+$CMP Resistor
+D Resistor
+K Resistor
+$ENDCMP
+#
+$CMP SIP4
+D Pin header, Four pins
+K Pin header, Four pins
+$ENDCMP
+#
+$CMP STM32F103T8U6TR
+D MCU
+K MCU
+$ENDCMP
+#
+$CMP SW2X3
+D Toggle switch, Two Positions, Six pins
+K Toggle switch, Two Positions, Six pins
+$ENDCMP
+#
+$CMP SchottkyDiode
+D Schottky diode
+K Schottky diode
+$ENDCMP
+#
+$CMP Triode
+D NPN Transistor
+K NPN Transistor
+$ENDCMP
+#
+#End Doc Library
